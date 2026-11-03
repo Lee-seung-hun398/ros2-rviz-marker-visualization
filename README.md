@@ -57,3 +57,8 @@ RViz2에서 다음 요소를 확인할 수 있습니다.
 - `WARNING: OBSTACLE [3.0m]` 경고 텍스트
 
 Fixed Frame은 `base_link`를 사용합니다.
+
+### 실행 화면
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a147c109-b06c-49f3-9f8a-b0350797f3b3" />
+
